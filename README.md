@@ -1,12 +1,6 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
-
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Doe Portfolio Logo" width="120" />
-
-<br /><br />
 
 ## 👨‍🎨 Doe – Personal Portfolio  
 A sleek, minimal, and fully responsive **Personal Portfolio Website UI** built using HTML, CSS, and JavaScript.  
