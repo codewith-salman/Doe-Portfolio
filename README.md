@@ -13,7 +13,7 @@ Designed to showcase skills, projects, and personal branding in a professional a
 <!-- ABOUT THE PROJECT -->
 ## 📖 About The Project
 
-<img src="Doe%20Portfolio/assets/images/desktop.png" alt="Doe Portfolio Desktop View" width="100%" />
+<img src="Doe%20Portfolio/asstets/images/desktop.png" alt="Doe Portfolio Desktop View" width="100%" />
 
 The **Doe Portfolio** is a modern personal portfolio website concept tailored for developers, designers, and freelancers.  
 It emphasizes clean layouts, smooth navigation, and clear presentation of personal information, skills, and projects.
