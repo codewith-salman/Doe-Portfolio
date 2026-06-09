@@ -55,7 +55,6 @@ Ideal for:
 - Freelancer personal branding  
 - Resume-style web portfolios  
 - Creative portfolio showcases  
-- UI/UX and responsive design practice 
 
 ---
 
