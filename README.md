@@ -55,9 +55,7 @@ Ideal for:
 - Freelancer personal branding  
 - Resume-style web portfolios  
 - Creative portfolio showcases  
-- UI/UX and responsive design practice  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- UI/UX and responsive design practice 
 
 ---
 
@@ -71,17 +69,13 @@ Ideal for:
 - Elegant typography and spacing  
 - Easy customization for any individual  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- **JavaScript (Vanilla)** 
 
 ---
 
