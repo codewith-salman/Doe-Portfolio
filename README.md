@@ -64,8 +64,7 @@ Ideal for:
 - Minimal and modern UI design  
 - Hero section with personal introduction  
 - Projects, skills, and experience showcase  
-- Smooth scrolling and hover effects  
-- Elegant typography and spacing  
+- Smooth scrolling and hover effects 
 - Easy customization for any individual  
 
 ---
