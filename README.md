@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/doe-portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/Doe-Portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewith-salman/doe-portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/doe-portfolio?style=social)
 
