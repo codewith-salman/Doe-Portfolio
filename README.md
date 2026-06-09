@@ -61,7 +61,6 @@ Ideal for:
 ## ✨ Features
 
 - Fully responsive personal portfolio layout  
-- Minimal and modern UI design  
 - Hero section with personal introduction  
 - Projects, skills, and experience showcase  
 - Smooth scrolling and hover effects 
