@@ -53,9 +53,8 @@ From the introduction hero section to project showcases and contact forms, Doe P
 Ideal for:
 - Developer and designer portfolios  
 - Freelancer personal branding  
-- Resume-style web portfolios  
-- Creative portfolio showcases  
-
+- Resume-style web portfolios
+ 
 ---
 
 ## ✨ Features
