@@ -5,7 +5,7 @@
 
 <!-- 🔰 BADGES -->
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/Doe-Portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/doe-portfolio?style=social)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/Doe-Portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewith-salman/doe-portfolio?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://doe-portfolio-three.vercel.app/)
